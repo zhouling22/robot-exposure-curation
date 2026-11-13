@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Robot Exposure Curation"
+message: "Please cite the accompanying paper when using this repository."
+type: software
+authors:
+  - family-names: Zhou
+    given-names: Ling
+    affiliation: Tsinghua University
+  - family-names: Zhang
+    given-names: Chun
+    affiliation: Tsinghua University
+repository-code: "https://github.com/zhouling22/robot-exposure-curation"
+license: MIT
+version: 0.1.0
+date-released: 2026-11-14

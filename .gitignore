@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+.env
+*.secret
+*.pem
+*.key
+
+# Datasets and generated experiment state
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pickle
+checkpoints/
+models/
+outputs/
+logs/
+rollouts/
+cache/
+data/
+results/*.json
+results/*.csv
+
+# Local configuration and receipts that may contain machine paths
+local_config.*
+*_local.*
+*.receipt.json
